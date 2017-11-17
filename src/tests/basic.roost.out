@@ -1,0 +1,31 @@
+Roost Status =====================
+| Time:            0
+| Cur. Temp:       70
+| Desired Temp:    65
+| Current routine: (none) (0) 
+==================================
+Roost Status =====================
+| Time:            10
+| Cur. Temp:       65.7357
+| Desired Temp:    65
+| Current routine: (none) (10) 
+==================================
+Roost Status =====================
+| Time:            50
+| Cur. Temp:       65.2243
+| Desired Temp:    65
+| Current routine: (none) (50) 
+==================================
+Roost Status =====================
+| Time:            100
+| Cur. Temp:       64.8669
+| Desired Temp:    65
+| Current routine: (none) (100) 
+==================================
+Roost Status =====================
+| Time:            200
+| Cur. Temp:       78.9915
+| Desired Temp:    80
+| Current routine: (none) (200) 
+==================================
+Simulation complete. Total energy usage: 15.1
